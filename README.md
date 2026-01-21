@@ -2,7 +2,7 @@
 An end-to-end machine learning project designed to predict the outcomes of ATP (Association of Tennis Professionals) tennis matches. By analyzing historical player data, surface types, and performance metrics, this model aims to provide probabilistic forecasts of match winners.
 
 🚀 Project Overview
-This project leverages historical match data (likely from sources like Jeff Sackmann’s ATP database) to train various classification models. It accounts for factors such as:
+This project leverages historical match data (Jeff Sackmann’s ATP database) to train various classification models. It accounts for factors such as:
 
 Player Rankings & Elo Ratings
 
